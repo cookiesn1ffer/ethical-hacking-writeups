@@ -1,4 +1,4 @@
-# Intro to LAN — README.md
+# Intro to LAN
 
 **TL;DR**  
 Quick intro to how local area networks (LANs) are built — covers topologies, basic subnetting, ARP, and DHCP. Fast, entry‑level primer (≈15 minutes). ([TryHackMe Room](https://tryhackme.com/room/introtolan))
