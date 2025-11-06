@@ -1,5 +1,6 @@
-# ethical-hacking-writeups
-Personal cybersecurity notes  — no spoilers, just methods, insights, and tools. Focused on practical learning, clean documentation, and long-term skill building. Each entry is a quick breakdown of what I learned, how I approached it, and what’s worth remembering.
+# ETHICAL HACKING WRITE-UPS
+
+I will be writing alot of things and make a note of whatever i am learning to be an ethical hacker.
 
 ---
 
