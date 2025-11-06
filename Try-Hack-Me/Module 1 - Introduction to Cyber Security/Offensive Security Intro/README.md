@@ -18,8 +18,9 @@ Think of Gobuster as trying a giant ring of keys on a locked door: each key is a
 
 Example Gobuster command
 
-gobuster dir -u http://TARGET_IP_OR_DOMAIN -w /usr/share/wordlists/dirb/common.txt -x php,txt,html -t 50 -o gobuster_results.txt
-
+```bash
+  gobuster dir -u http://TARGET_IP_OR_DOMAIN -w /usr/share/wordlists/dirb/common.txt -x php,txt,html -t 50 -o gobuster_results.txt
+```
 
 -u target URL
 
