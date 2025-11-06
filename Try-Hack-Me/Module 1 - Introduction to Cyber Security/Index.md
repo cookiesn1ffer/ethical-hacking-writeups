@@ -4,7 +4,7 @@
 
 ## 📘 Module 1 — Introduction to Cyber Security
 
-### 🔹 [Defensive Security Intro](./Module%201%20-%20Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro/README.md)
+### 🔹 [Defensive Security Intro](https://github.com/cookiesn1ffer/ethical-hacking-writeups/blob/main/Try-Hack-Me/Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber/README.md)
 Basics of defensive security — how defenders protect systems and monitor attacks.
 
 ### 🔹 [Offensive Security Intro](./Module%201%20-%20Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro/README.md)
