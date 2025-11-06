@@ -65,3 +65,9 @@ gobuster dir -u http://10.10.10.10 -w /usr/share/wordlists/dirb/common.txt -x ph
 ```
 
 ---
+
+License / Author
+Author: cookiesn1ffer  
+License: MIT — see root `LICENSE` file.
+
+---
