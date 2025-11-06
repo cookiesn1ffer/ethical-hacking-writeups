@@ -58,5 +58,8 @@ Short and useful. Took ~15 minutes. If you’re confused, repeat the room after 
 
 ---
 
-## License / Author
-Author: `cookiesn1ffer`  
+License / Author
+Author: cookiesn1ffer  
+License: MIT — see root `LICENSE` file.
+
+---
