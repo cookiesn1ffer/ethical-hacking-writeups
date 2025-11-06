@@ -49,3 +49,9 @@ This lab simulates a small banking environment ("fakebank"). The practical focus
 - Performing a basic forensic timeline and recovering clean images
 
 ---
+
+License / Author
+Author: cookiesn1ffer  
+License: MIT — see root `LICENSE` file.
+
+---
