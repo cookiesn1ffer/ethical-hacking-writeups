@@ -48,15 +48,4 @@ This lab simulates a small banking environment ("fakebank"). The practical focus
 - Remediating vulnerable services and applying patches
 - Performing a basic forensic timeline and recovering clean images
 
-Each writeup in this repo captures what was observed, what defensive action was taken, and the lessons learned.
-
----
-
-## How to write a useful lab writeup
-1. **Keep it short & focused** — aim for the important steps only.
-2. **Follow the template:** Objective → Observations → Actions → Outcome → Lessons.
-3. **Include evidence:** short command outputs, log snippets, and screenshots where helpful.
-4. **List IOCs separately:** IPs, filenames, hashes, suspicious accounts, timestamps.
-5. **Provide reproducible commands** and exact config changes so others can repeat your steps.
-
 ---
