@@ -4,13 +4,13 @@
 
 ## 📘 Module 1 — Introduction to Cyber Security
 
-### 🔹 [Defensive Security Intro](https://github.com/cookiesn1ffer/ethical-hacking-writeups/blob/main/Try-Hack-Me/Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber/README.md)
+### 🔹 [Defensive Security Intro](http://github.com/cookiesn1ffer/ethical-hacking-writeups/tree/main/Try-Hack-Me/Module%201%20-%20Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro)
 Basics of defensive security — how defenders protect systems and monitor attacks.
 
-### 🔹 [Offensive Security Intro](./Module%201%20-%20Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro/README.md)
+### 🔹 [Offensive Security Intro](https://github.com/cookiesn1ffer/ethical-hacking-writeups/tree/main/Try-Hack-Me/Module%201%20-%20Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro)
 Covers the attacker side — using hacking techniques to find and fix vulnerabilities.
 
-### 🔹 [Careers in Cyber](./Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber/README.md)
+### 🔹 [Careers in Cyber](https://github.com/cookiesn1ffer/ethical-hacking-writeups/tree/main/Try-Hack-Me/Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber)
 Quick overview of different cybersecurity roles and how to choose your path.
 
 ---
