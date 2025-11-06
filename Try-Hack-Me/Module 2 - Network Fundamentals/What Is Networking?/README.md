@@ -38,7 +38,7 @@ This TryHackMe room breaks networking into the essentials: networks are collecti
 ---
 
 License / Author
-Author: cookiesn1ffer
-License: MIT — see root LICENSE file.
+Author: cookiesn1ffer  
+License: MIT — see root `LICENSE` file.
 
 ---
