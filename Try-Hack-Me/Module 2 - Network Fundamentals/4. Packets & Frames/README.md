@@ -1,8 +1,8 @@
 ---
-title: "Packets & Frames – TryHackMe Room Write‑Up"
-author: "Cookie"
-date: 2025-11-06
-tags:
+Title: "Packets & Frames – TryHackMe Room Write‑Up"
+Author: "Cookie"
+Date: 2025-11-06
+Tags:
   - TryHackMe
   - Networking
   - Packets & Frames
