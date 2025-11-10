@@ -76,7 +76,7 @@ Ethernet header → IP header → TCP/UDP header → Application data
 ---
 
 ## Personal note
-This room is solid for turning abstract OSI talk into observable facts you can prove in a capture. If you want, I can add a short Wireshark lab section with example filters and expected output so you can paste it into your repo as a "Try this" exercise.
+This room is solid for turning abstract OSI talk into observable facts you can prove in a capture.
 
 ---
 
