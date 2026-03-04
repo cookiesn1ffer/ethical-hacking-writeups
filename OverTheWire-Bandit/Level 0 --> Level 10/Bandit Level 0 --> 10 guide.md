@@ -267,5 +267,6 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ---
 
-### Author
-<a href="https://github.com/cookiesn1ffer" target="_blank">@cookiesn1ffer</a>
+### License / Author
+Author: <a href="https://github.com/cookiesn1ffer" target="_blank">cookiesn1ffer</a> 
+License: MIT — see root `LICENSE` file.
